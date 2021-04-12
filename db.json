@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+   "id": 1, "text": "Labas pasauli!" },
+{ "id": 2, "text": "Pirmyn pasauli!" },
+{ "id": 3, "text": "Paskubek pasauli!" },
+{ "id": 4, "text": "Greiciau pasauli!" }
+    
+  ],
+ "products": [
+{ "id": 1, "title": "Shoes", "count": 150, "price": 555.9 },
+{ "id": 2, "title": "Dress", "count": 300, "price": 99.99 },
+{ "id": 3, "title": "Pants", "count": 99, "price": 66.99 },
+{ "id": 4, "title": "Shorts", "count": 39, "price": 11.99 }
+]
+}
